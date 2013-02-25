@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2013-02-13 08:35:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2013-02-13 08:35:10 ::1 GET /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 1887
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2013-02-13 09:21:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2013-02-13 09:21:45 ::1 GET /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 11113
+2013-02-13 09:32:18 ::1 GET /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 715
+2013-02-13 10:08:51 ::1 GET /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 693
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2013-02-13 10:47:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2013-02-13 10:47:35 ::1 GET /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 731
+2013-02-13 10:47:57 ::1 POST /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) http://localhost:52391/NewUser.aspx 200 0 0 35
+2013-02-13 10:57:34 ::1 GET /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 696
+2013-02-13 10:57:57 ::1 POST /NewUser.aspx - 52391 - ::1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) http://localhost:52391/NewUser.aspx 200 0 0 43
